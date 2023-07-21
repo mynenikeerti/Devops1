@@ -1,0 +1,14 @@
+Software testing is known as a process for validating and verifying the working of a software/application. It makes sure that the software is working without any errors, bugs, or any other issues and gives the expected output to the user. The software testing process doesn’t limit to finding faults in the present software but also finding measures to upgrade the software in various factors such as efficiency, usability, and accuracy. So, to test software the software testing provides a particular format called a Test Case. 
+
+This article focuses on discussing the following topics in Test Case:
+
+What is a Test Case?
+Test Case vs Test Scenario.
+When do we write Test Cases?
+Why write Test Cases?
+Test Case Template.
+Best practice for writing Test Cases.
+Test Case management tools.
+Formal and Informal Test Case.
+Types of Test Cases.
+Example.
